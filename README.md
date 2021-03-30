@@ -1,7 +1,7 @@
 # Tartaros 
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c35c1e16f46441ec829f4fa5ca6f1d7f)](https://app.codacy.com/gh/hrtywhy/Tartaros?utm_source=github.com&utm_medium=referral&utm_content=hrtywhy/Tartaros&utm_campaign=Badge_Grade_Settings)
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hrtywhy/Tartaros">
+<img alt="pkg" src="https://badgen.net/github/dependents-pkg/micromatch/micromatch">
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
 <img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
 <img alt="bitcoin" src="https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label">
